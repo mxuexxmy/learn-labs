@@ -1,1 +1,3 @@
 deployment-location: "bao_ding"
+custom:
+  location: 'bd'
